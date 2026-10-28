@@ -69,7 +69,7 @@ const hideBroken = (e) => {
           <input
             v-model="search"
             type="text"
-            placeholder="Otelüň ady, şäher ýa-da salgy boýunça gözle..."
+            placeholder="Otelyň ady"
             class="w-full rounded-2xl border border-slate-200 bg-white py-4 pl-12 pr-4 text-sm text-slate-800 placeholder-slate-400 outline-none transition focus:border-sky-400 focus:ring-4 focus:ring-sky-100 dark:border-slate-700 dark:bg-slate-800 dark:text-white dark:placeholder-slate-500 dark:focus:border-sky-500 dark:focus:ring-sky-900/30"
           />
         </div>
